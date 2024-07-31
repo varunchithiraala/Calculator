@@ -92,8 +92,6 @@ Contributions are welcome! Please follow these guidelines for contributing:
 
 ## License
 
-### Limitations
-
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
