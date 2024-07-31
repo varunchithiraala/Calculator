@@ -1,0 +1,4 @@
+# requirements.txt
+# This file lists the dependencies required to run the project.
+# Add any additional Python packages required for the project here.
+# Currently, no external dependencies are needed for this project.
