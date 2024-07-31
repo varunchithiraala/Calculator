@@ -21,7 +21,7 @@ To run the Simple Calculator, you need Python installed on your system. The appl
 
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/your-username/calculator.git
+   git clone https://github.com/varunchithiraala/calculator.git
 
 2. **Navigate to the Project Directory:**
    ```sh
@@ -31,8 +31,8 @@ To run the Simple Calculator, you need Python installed on your system. The appl
     Create a virtual environment and install the required dependencies using `requirements.txt`. Run the following commands:
    ```sh
    python -m venv venv
-source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-pip install -r requirements.txt
+   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+   pip install -r requirements.txt
 
 ## Usage
 
@@ -41,11 +41,11 @@ pip install -r requirements.txt
    ```sh
    python calculator.py
 
-2. Interface
+2. **Interface**
 - **Display Area:** Shows the current input and the result of the calculation.
 - **Buttons:** Includes digits (0-9), operators (+, -, ×, ÷), and special functions (√, x²).
 
-3. Performing Calculations
+3. **Performing Calculations**
 - **Input Numbers:** Click the number buttons to input numbers.
 - **Operators:** Click the operators to perform arithmetic operations.
 - **Special Functions:** Use `√` for square root and `x²` for squaring a number.
