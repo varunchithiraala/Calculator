@@ -94,16 +94,6 @@ Contributions are welcome! Please follow these guidelines for contributing:
 
 ### Limitations
 
-**Liability**
-
-The authors or copyright holders shall not be liable for any claims, damages, or other liabilities, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software.
-
-**Warranty**
-
-The software is provided "as is", without any warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. The authors or copyright holders make no warranties regarding the software.
-
-For further details, please refer to the MIT License.
-
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
